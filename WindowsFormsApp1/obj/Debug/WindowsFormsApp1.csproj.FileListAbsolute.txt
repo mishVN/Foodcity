@@ -1,0 +1,97 @@
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.home.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loginbackoffice.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loginpos.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pos.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.backoffice.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.items.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.stock.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Account.resources
+C:\Users\Mishad Vihanga\Documents\GitHub\IMR-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.create_account.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Account.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.backoffice.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.create_account.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.home.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.items.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loginbackoffice.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loginpos.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pos.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.stock.resources
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IRM\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\ZstdSharp.dll
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.IO.Pipelines.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Account.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.backoffice.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.create_account.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.home.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.items.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.loginbackoffice.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loginpos.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pos.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.singoffpos.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.signoffbc.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.stockadd.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login_report.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.addcheque.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.showcheque.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.logoffuser.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.lawstock.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.totalsale.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.totalcheque.resources
+D:\IMR-Group-\Foodcity\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Return.resources
